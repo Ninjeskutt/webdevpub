@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/99/41/4d/99414d376b29e12e6ad1baefc67f805f.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    }
+
+    div{
+        color: white;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-shadow: black;
+
+    }
+
+.pic2
+{
+    width: 350px;
+    height: 450px;
+    border-radius: 8px;
+    margin-top: 125px;
+    margin-left: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0);
+}
+
+

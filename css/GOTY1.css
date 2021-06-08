@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://i2.wp.com/thekoalition.com/images/2010/03/Red-Dead-Redemption.jpg?fit=1920%2C1080&ssl=1"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    }
+
+    div{
+        color: white;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        text-shadow: black;
+
+    }
+
+.pic1
+{
+    width: 350px;
+    height: 450px;
+    border-radius: 8px;
+    margin-top: 125px;
+    margin-left: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgb(0, 0, 0);
+}
+
+
